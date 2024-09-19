@@ -1,5 +1,5 @@
 # Brain-Tumor-Detector
-This project focuses on building a Convolutional Neural Network (CNN) to classify MRI images of brain tumors. The model differentiates between healthy individuals and patients with brain tumors based on their MRI scans. Data retrieved from open dataset on kaggle (https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection?resource=download)
+This project focuses on building a Convolutional Neural Network (CNN) to detect MRI images of brain tumors. The model differentiates between healthy individuals and patients with brain tumors based on their MRI scans. Data retrieved from open dataset on kaggle (https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection?resource=download)
 
 ## Model Architecture
 1. **Convolutional Layers**: Two convolutional layers, each followed by a non-linear activation function (Tanh) and average pooling.
